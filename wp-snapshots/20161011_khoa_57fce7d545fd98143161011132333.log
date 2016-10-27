@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-10-11 13:23:39
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.14
+WORDPRESS:	4.6.1
+PHP INFO:	5.6.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.16 (Win32) OpenSSL/1.0.1p PHP/5.6.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 17MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20161011_khoa_57fce7d545fd98143161011132333_database.sql 
+SQL FILE SIZE: 524.72KB (537318) 
+SQL FILE TIME: 2016-10-11 13:23:40 
+SQL RUNTIME: 0.89 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  E:/projects/xampp/htdocs/wordpress/khoa 
+ARCHIVE FILE: 20161011_khoa_57fce7d545fd98143161011132333_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	39.41MB 
+STATS:	Dirs 380 | Files 2,637 
+SQL ADDED: 20161011_khoa_57fce7d545fd98143161011132333_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3017
+    [filename] => E:\projects\xampp\htdocs\wordpress\khoa\wp-snapshots\tmp\20161011_khoa_57fce7d545fd98143161011132333_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 13.95MB 
+ARCHIVE RUNTIME: 26.72 sec. 
+MEMORY STACK: 18MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [E:/projects/xampp/htdocs/wordpress/khoa/wp-snapshots/tmp/20161011_khoa_57fce7d545fd98143161011132333_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 524.72KB 
+Installer File: 346KB 
+Archive File: 13.95MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 32.94 sec.
+PEAK PHP MEMORY USED: 20.5MB
+DONE PROCESSING => 20161011_khoa 2016-10-11 13:24:12
+ 
